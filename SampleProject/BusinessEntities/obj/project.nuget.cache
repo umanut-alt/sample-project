@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eqcfs9PVsX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cisadmin\\source\\repos\\sample-project\\sample-project-main\\SampleProject\\BusinessEntities\\BusinessEntities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cisadmin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cisadmin\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\cisadmin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cisadmin\\.nuget\\packages\\simpleinjector\\4.0.8\\simpleinjector.4.0.8.nupkg.sha512",
+    "C:\\Users\\cisadmin\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\cisadmin\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
