@@ -1,0 +1,17 @@
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\BusinessEntities.dll
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Common.dll
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Data.dll
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\BusinessEntities.pdb
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.Up2Date
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\nchebr411@cable.comcast.com\OneDrive - Comcast\Uma\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.pdb
