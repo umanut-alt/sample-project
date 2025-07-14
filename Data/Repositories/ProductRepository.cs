@@ -8,42 +8,6 @@ using System.Xml.Linq;
 namespace Data.Repositories
 {
     [AutoRegister]
-    //public class ProductRepository : IProductRepository
-    //{
-    //    private static readonly List<Product> _products = new List<Product>();
-
-    //    public void Save(Product product)
-    //    {
-    //        InMemoryRepository.Save(product);
-    //    }
-
-    //    public void Update(Product updated)
-    //    {
-    //        var product = InMemoryRepository.Get(updated.Id); ;
-    //        if (product == null) return;
-    //        InMemoryRepository.Update(product.Id, updated);
-    //    }
-    //    public void Delete(Product product)
-    //    {
-    //        InMemoryRepository.Delete(product);
-    //    }
-
-    //    public Product Get(int id)
-    //    {
-    //        if(id <= 0) return null;
-    //        return InMemoryRepository.Get(id);
-    //    }
-
-    //    public void DeleteAll()
-    //    {
-    //        InMemoryRepository.DeleteAll();
-    //    }
-
-    //    public IEnumerable<Product> Get(string searchString = null)
-    //    {
-    //        return InMemoryRepository.GetAll(searchString);
-    //    }
-    //}
     public class ProductRepositoy : IProductRepository
     {
         private readonly List<Product> _products = new List<Product>();
